@@ -1,0 +1,25 @@
+[
+  {
+    "id": "26760170-ca47-11ed-aba5-0f4efc587a49",
+    "name": "123",
+    "surname": "skljgrn",
+    "year": "21",
+    "pasportser": "AB",
+    "pasportnum": "123456789",
+    "pay": 0,
+    "access": false,
+    "category": "bc",
+    "parol": "awglvnkfeagvnkr",
+    "test": [],
+    "testaccess": 0,
+    "result": [
+      {
+        "id": "142fa6f0-cafc-11ed-aca5-1d0289274a45",
+        "startDay": "25-3-2023-15-59",
+        "finish": "25-3-2023-16-1",
+        "variand": 1,
+        "result": 0
+      }
+    ]
+  }
+]
